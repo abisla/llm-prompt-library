@@ -1,0 +1,10 @@
+{
+  "prompt_id": "advisory_mna_2024_01",
+  "prompt_text": "Please provide details of the merger including target company, deal structure, and closing date.",
+  "created_by": "amar.bisla",
+  "use_case": "client_engagement_intake",
+  "version": 1,
+  "model": "gpt-4",
+  "expected_output_format": "bullet points with labeled fields",
+  "last_updated": "2024-05-09T15:45:00Z"
+}
